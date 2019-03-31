@@ -9,8 +9,8 @@ html,body{
 }
 body{
 background-color: #d1d1d1;
-border-top: solid 20p x#b5d0fc;
-border-bottom: solid 20px#b5d0fc;
+border-top: solid 20px #9bc1ff;
+border-bottom: solid 20px#9bc1ff;
 box-sizing: border-box;
 overflow: hidden;
 }
@@ -38,7 +38,7 @@ overflow: hidden;
     font-size: 12px;
 }
 .namecard h5{
-    color: #b5d0fc;
+    color: #9bc1ff;
     font-weight: 500;
 }
 
@@ -55,14 +55,14 @@ overflow: hidden;
 
 .circle1{
     right:100px;
-    background-color: #b5d0fc;   
+    background-color: #9bc1ff;   
 }
 .circle2{
 width: 60px;height: 60px;
 right: -30px;
 top: -30px;
 
-border: solid 3px #b5d0fc;
+border: solid 3px #9bc1ff;
 }
 
 .page_title{
